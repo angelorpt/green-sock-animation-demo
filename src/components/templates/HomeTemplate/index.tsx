@@ -38,7 +38,7 @@ function DemoTemplate() {
           start: "top 70%",
           end: "bottom 20%",
           scrub: true,
-          markers: true,
+          markers: false,
           id: "animation",
         },
       });
