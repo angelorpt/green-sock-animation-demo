@@ -5,7 +5,7 @@ import Captain from "./../../../../src/assets/img/captain-america.png";
 import Ninja from "./../../../../src/assets/img/ninja.png";
 import Shuriken from "./../../../../src/assets/img/shuriken.png";
 import SectionArea from "../../atoms/Section";
-import { ImageWrapper, ImageWrapperMarvel } from "./styles";
+import { ImageWrapper, ImageWrapperMarvel } from "../HomeTemplate/styles";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
 

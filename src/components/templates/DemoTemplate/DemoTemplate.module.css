@@ -1,8 +1,0 @@
-.background02 {
-  background-image: url("../../../../src/assets/img/background-02.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center center;
-  background-size: cover;
-  -webkit-background-origin: border;
-}
